@@ -2,11 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-### `npm start`
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
 
 
 
