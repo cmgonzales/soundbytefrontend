@@ -1,10 +1,5 @@
 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
 
